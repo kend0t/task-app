@@ -1,0 +1,4 @@
+django
+drf_yasg
+pytest
+djangorestframework
