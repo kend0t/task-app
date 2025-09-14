@@ -5,6 +5,6 @@ A simple tasks app using django
 2. `api/tasks/` - for GET (all) and POST methods
 3. `api/tasks/<id>` - for GET (single), PATCH, and DELETE methods
 
-**To run app**: go to backend directory then run `python manage.py runserver`
+**To run app**: go to "backend" directory then run `python manage.py runserver`
 
-**To run tests**: go to backend directory then run `pytest`
+**To run tests**: go to "backend" directory then run `pytest`
